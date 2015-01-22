@@ -1,0 +1,7 @@
+//test return 2
+
+fun main() : int {
+  int x;
+  x = 2;
+  return x;
+}
